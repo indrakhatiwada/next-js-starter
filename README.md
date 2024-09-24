@@ -11,4 +11,5 @@
 - tabler icon library for icons
 - light/ dark theme
 - type safe env variables using t3gg/env
-- Google oAuth with nextAuthg
+- Google oAuth with nextAuth
+- implemented Role based Auth with Prisma adapter, Google and postgres
