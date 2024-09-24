@@ -15,8 +15,6 @@ import { signIn, signOut, useSession } from "next-auth/react";
 export default function AuthButton({ minimal = true }: { minimal: boolean }) {
   const { data, status } = useSession();
 
-  console.log(data);
-
   if (status === "loading") {
     return <CircularProgress />;
   }

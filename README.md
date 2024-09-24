@@ -11,4 +11,4 @@
 - tabler icon library for icons
 - light/ dark theme
 - type safe env variables using t3gg/env
-- Google oAuth with nextAuth
+- Google oAuth with nextAuthg
