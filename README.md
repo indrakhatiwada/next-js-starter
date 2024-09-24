@@ -7,3 +7,6 @@
 - import order sorter, you can change it in `prettierrc.json`
 - tailwind css class order
 - File naming and folder naming conventions
+- nextUI
+- tabler icon library for icons
+- light/ dark theme

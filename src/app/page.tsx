@@ -1,8 +1,10 @@
+import Navigation from "@/components/navBar";
 
 export default function Home() {
   return (
-   <div className="text-xl">
-    <h3>Hello world</h3>
-   </div>
+   <div className="flex w-full items-center justify-center">
+    <Navigation />
+
+  </div>
   );
 }
